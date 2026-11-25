@@ -1,0 +1,8 @@
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\bin\Debug\IntelliBudget.exe.config
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\bin\Debug\IntelliBudget.exe
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\bin\Debug\IntelliBudget.pdb
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\obj\Debug\IntelliBudget.csproj.AssemblyReference.cache
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\obj\Debug\IntelliBudget.csproj.CoreCompileInputs.cache
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\obj\Debug\IntelliBudget.exe
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\obj\Debug\IntelliBudget.pdb
+D:\UoM\Semester 2\ITE1943 - ICT Project\IntelliBudget\obj\Debug\IntelliBudget.exe.config
